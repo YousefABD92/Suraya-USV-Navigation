@@ -33,7 +33,7 @@ The system employs multi-sensor fusion for dynamic obstacle detection and naviga
 1. **Navigation & Obstacle Avoidance Demo**  
    [![Watch Video](https://img.shields.io/badge/Watch-Video-blue)](https://drive.google.com/file/d/17rrR1ReYEjEEKBn0R51izWoNFJpeQzj9/view?usp=sharing)
 
-2. **Autonomous Behavior Execution – River Test**  
+2. **Autonomous Behavior Execution – real Test**  
    [![Watch Video](https://img.shields.io/badge/Watch-Video-blue)](https://drive.google.com/file/d/1tqD_GHLpesbP-rrXz5ujVgkOB_tPRv7u/view?usp=sharing)
 
 ---
