@@ -20,7 +20,7 @@ The system employs multi-sensor fusion for dynamic obstacle detection and naviga
 
 ## 📘 Related Publications
 
-- **[An ESA-Based Perception System for Autonomous Surface Navigation](https://ieeexplore.ieee.org/document/10969632)**  
+- **[Hybrid Vision System for Enhanced Situational Awareness in Unmanned Surface Vehicles: Decision-Level Camera-LiDAR Fusion With Supervised and Unsupervised Approaches](https://ieeexplore.ieee.org/document/10969632)**  
   *IEEE ICIT 2024*  
   Focused on ESA layer design and real-time obstacle avoidance using multi-sensor data.
 
