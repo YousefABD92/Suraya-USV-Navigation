@@ -5,6 +5,8 @@
 > ⚠️ This repository is a high-level documentation of the project. Due to government and research constraints, source code and deployment modules cannot be made publicly available.
 
 ---
+![Suraya USV System Overview](https://github.com/YousefABD92/Suraya-USV-Navigation/blob/main/USV_system?raw=true)
+*Figure: System architecture and sensor configuration of the Suraya USV.*
 
 ## 🧠 Project Overview
 
